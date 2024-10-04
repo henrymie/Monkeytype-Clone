@@ -1,7 +1,7 @@
 ![monkeytype](https://github.com/user-attachments/assets/bdad708a-998c-4caa-9c7b-9c2c5e00785c)
 <h1>Monkeytype Clone</h1>
 
-<p>A clone of the popular Monkeytype typing test platform. This project is built using [your tech stack] to offer a sleek, interactive typing experience.</p>
+<p>A clone of the popular Monkeytype typing test platform. This project is built using HTML5 to offer a sleek, interactive typing experience.</p>
 
 <h2>Features</h2>
 <ul>
